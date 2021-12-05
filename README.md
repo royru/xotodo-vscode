@@ -6,11 +6,11 @@ xotodo is a protoype task management system. This extension will provide syntax 
 
 Highlighting open and closed TODOs:
 
-\!\[feature X\]\(assets/screenshot.png\)
+![todo highlighting](assets/screenshot.png)
 
 ## Requirements
 
-No requirements, but check out [xotodo-deno](...) 
+No requirements, but check out [xotodo](https://github.com/royru/xotodo) 
 
 ## Extension Settings
 

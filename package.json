@@ -1,6 +1,7 @@
 {
   "name": "xotodo",
 	"displayName": "xotodo",
+  "publisher": "royru",
 	"description": "vscode support for xotodo",
 	"version": "0.0.1",
 	"engines": {
@@ -12,6 +13,10 @@
 	"activationEvents": [
         "*"
 	],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/royru/xotodo-vscode"
+  },
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [

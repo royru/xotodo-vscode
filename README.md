@@ -28,11 +28,17 @@ This extension contributes the following settings:
 
 None
 
+## Roadmap
+- OTODO: add current logo
+- OTODO: click on open-todo-keyword should set the todo to closed and add a completion date.
+
+
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
-
 ### 0.0.1
-
 Initial release of xotodo
 
+### 0.0.2
+- small refactoring of the code
+- changed the design of `XTODO:` to not cross the whole line anymore, but only the keyword
+- added a completion provider for due dates (triggered with `@`) on lines comprising the open-todo-keyword.
